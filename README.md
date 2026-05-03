@@ -364,6 +364,9 @@ supabase studio
 | 6 | `supabase db push` | Aplicar migración a Supabase Cloud |
 | 7 | `supabase migration list` | Confirmar que la migración fue aplicada |
 
+### 3.6 Imagen de Supabase CLI
+
+![Uso de SupaBaseCLI](/imgs/SupabaseCLI.png)
 ---
 
 ## 4. Guía de Configuración de Autenticación
